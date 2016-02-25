@@ -4,4 +4,4 @@
 
 #效果如下
 
-![image]
+![image](https://github.com/rockyOpenSource/LTNavigationBar/blob/master/NavigationBar.gif)
